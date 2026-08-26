@@ -1,0 +1,21 @@
+# {{STAGE_NAME}} — Handoff Contract
+
+## Receives (from previous stage)
+
+**Artifact:** {{HANDOFF_IN_ARTIFACT}}
+**Fields it needs:**
+- {{HANDOFF_IN_FIELD_1}}
+- {{HANDOFF_IN_FIELD_2}}
+- {{HANDOFF_IN_FIELD_3}}
+
+## Produces (to next stage)
+
+**Artifact:** {{HANDOFF_OUT_ARTIFACT}}
+**Fields it provides:**
+- {{HANDOFF_OUT_FIELD_1}}
+- {{HANDOFF_OUT_FIELD_2}}
+- {{HANDOFF_OUT_FIELD_3}}
+
+## Human review gate
+
+{{HUMAN_REVIEW_GATE}} (yes/no + what the human must approve)

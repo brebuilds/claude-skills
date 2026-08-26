@@ -1,0 +1,13 @@
+# {{STAGE_NAME}} — Rules
+
+## Always do
+
+{{ALWAYS_LIST}}
+
+## Never do
+
+{{NEVER_LIST}}
+
+## Edge cases
+
+{{EDGE_CASES}}

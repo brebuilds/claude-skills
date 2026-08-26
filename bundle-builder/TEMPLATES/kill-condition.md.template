@@ -1,0 +1,13 @@
+# Kill Condition — {{BUNDLE_NAME}}
+
+**This bundle is archived or deleted when:**
+
+{{KILL_CONDITION}}
+
+**Why this condition was chosen:**
+{{RATIONALE}}
+
+**Last reviewed:** {{DATE}}
+
+**Review notes:**
+{{NOTES}}

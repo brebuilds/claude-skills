@@ -1,0 +1,25 @@
+# {{AGENT_NAME}} / {{SYSTEM_NAME}}
+
+**Built:** {{DATE}}
+**Why this exists:** {{WHY_THIS_EXISTS}}
+**Scaling axis:** {{SCALING_AXIS}}
+**Kill condition:** {{KILL_CONDITION}}
+
+**Status:** scaffolded — needs 1-2 real session runs to validate. **First real run test is mandatory** (see `00-first-run-test.md`).
+
+## What this {{AGENT_OR_SYSTEM}} does
+
+{{ROLE_SENTENCE}}
+
+{{JOB_OR_STAGES_SUMMARY}}
+
+## Try it
+
+1. Open `CLAUDE.md` in the agent runtime
+2. Run the minimal test case in `00-first-run-test.md`
+3. Fill in the post-run notes
+4. Come back to "Builder notes" below only after the first real run
+
+## Builder notes
+
+(Empty — fill in after first 1-2 sessions with what didn't work or what the kill condition should actually be.)

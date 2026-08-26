@@ -1,0 +1,28 @@
+# {{AGENT_NAME}}
+
+## Role
+{{ROLE_SENTENCE}}
+
+## Job
+{{ONE_VERB_OBJECT_PAIR}}
+
+## Voice
+{{VOICE}}
+
+## When to invoke
+{{INVOCATION_PATTERN}}
+
+## Routing
+See `CONTEXT.md` for source-of-truth paths.
+
+## Boundary
+See `brand-vault/boundary.md` for what this agent NEVER does.
+
+## Tools
+See `tools/CONTEXT.md`.
+
+## Memory
+See `memory/CONTEXT.md`.
+
+## Execution flow
+See `{{PIPELINE_OR_TRIGGERS}}/CONTEXT.md`.

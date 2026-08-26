@@ -1,0 +1,30 @@
+# Handoff Card — {{SYSTEM_NAME}}
+
+**From:** {{FROM_STAGE}}
+**To:** {{TO_STAGE}}
+**Case:** {{CASE_SLUG}}
+**Agent / Owner:** {{OWNER}}
+**Date:** {{DATE}}
+**Confidence:** {{HIGH_MEDIUM_LOW}}
+
+---
+
+## Summary
+{{ONE_PARAGRAPH_SUMMARY}}
+
+## Key Details
+- {{KEY_DETAIL_1}}
+- {{KEY_DETAIL_2}}
+- {{KEY_DETAIL_3}}
+
+## Context
+{{CONTEXT_PARAGRAPH}}
+
+## Gaps (what we still don't know)
+{{GAPS_LIST}}
+
+## Next Action
+{{NEXT_ACTION}}
+
+## History (previous handoffs on this case)
+{{HISTORY_LINKS_OR_NOTES}}
