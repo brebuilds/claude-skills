@@ -1,0 +1,31 @@
+# {{STAGE_NAME}} — Examples
+
+## Example 1 — Happy path
+
+**Input (handoff received):**
+```
+{{EXAMPLE_1_INPUT}}
+```
+
+**What this stage produces:**
+```
+{{EXAMPLE_1_OUTPUT}}
+```
+
+**Why this is correct:**
+{{EXAMPLE_1_REASON}}
+
+## Example 2 — Edge case / refusal
+
+**Input:**
+```
+{{EXAMPLE_2_INPUT}}
+```
+
+**Decision:**
+```
+{{EXAMPLE_2_DECISION}}
+```
+
+**Reason:**
+{{EXAMPLE_2_REASON}}

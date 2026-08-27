@@ -1,0 +1,43 @@
+# First Real Run Test — {{BUNDLE_NAME}}
+
+**Purpose:** This bundle is not considered complete until it has been run end-to-end at least once on real data.
+
+## Minimum viable test case
+
+**Design / Item to test:** {{ONE_SPECIFIC_EXAMPLE}}
+
+**Expected input:** {{MINIMAL_INPUT_DESCRIPTION}}
+
+**Expected output:** {{WHAT_SHOULD_HAPPEN}}
+
+**Steps to run:**
+1. {{STEP_1}}
+2. {{STEP_2}}
+3. {{STEP_3}}
+
+## Checklist before marking "live"
+
+- [ ] Test case above executed without errors
+- [ ] Output was reviewed by a human (Bre or equivalent)
+- [ ] Any hard nos in `boundary.md` were actually triggered and respected
+- [ ] `Kill Condition` (see README.md) was reviewed and still feels correct
+
+## Post-run notes (required)
+
+**Date run:** {{DATE}}
+
+**What actually broke or felt wrong:**
+
+{{WRITE_HERE}}
+
+**What surprised you (good or bad):**
+
+{{WRITE_HERE}}
+
+**Would you run this bundle again tomorrow without changes? (y/n + one sentence)**
+
+{{WRITE_HERE}}
+
+---
+
+**Rule:** Do not delete or archive this file. It is the historical record of the bundle's first contact with reality.

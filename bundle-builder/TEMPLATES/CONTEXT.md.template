@@ -1,0 +1,20 @@
+# {{AGENT_NAME}} — Routing
+
+## Source of truth
+
+{{SOURCE_PATHS}}
+
+## Scattered or duplicated — cleanup flags
+
+{{SCATTERED_FLAGS}}
+
+## Missing — setup work
+
+{{MISSING_FLAGS}}
+
+## Sub-routes
+
+- `brand-vault/` — voice + boundary (read-only reference)
+- `tools/` — capability docs (3 tools max)
+- `memory/` — state design
+- `{{PIPELINE_OR_TRIGGERS}}/` — execution flow
